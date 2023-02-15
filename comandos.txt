@@ -1,0 +1,2 @@
+# access the docker compose
+docker-compose exec app bash
